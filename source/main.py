@@ -1,3 +1,5 @@
+from config import *
+
 class Company:
 	_id_index = 0
 	def __init__(self):
