@@ -6,7 +6,7 @@ A stock market simulator focused on buying, selling, and managing investments. T
 ## Features
 - Company names and tickers generator
 - ...
-==**Project still in development, features may change**==
+**Project still in development, features may change**
 
 ## Prerequisites & Running
 
@@ -32,6 +32,7 @@ How to run:
    python main.py
    ```
 ## Contributing & License
+*Project still in development!*
 This project is open for everyone! Feel free to fork the repository, make edits, open issues, or submit pull requests to help improve the simulator.
 
 Distributed under the MIT License. See LICENSE for details.

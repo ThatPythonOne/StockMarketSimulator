@@ -1,3 +1,5 @@
+from .industry import *
+
 CORES = {
     Industry.TECH: [
         "Systems",

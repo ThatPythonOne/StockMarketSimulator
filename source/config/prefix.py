@@ -1,3 +1,4 @@
+from .industry import *
 
 PREFIXES = {
     Industry.TECH: [
